@@ -1,11 +1,13 @@
  <?php
-\\\JEMBOD KELIAN, NGAPAIN KE MARIH?\\\
+//JEMBOD KELIAN, NGAPAIN KE MARIH?
 
 $cyan ="\e[36m";
 $red = "\e[91m";
 $yellow = "\e[93m";
 $blue = "\e[36m";
 
+clear
+ 
 echo "\n$cyan
 
 ****************************************
