@@ -6,13 +6,7 @@
 $cyan ="\e[36m";
 $red = "\e[91m";
 $yellow = "\e[93m";
-$blue = "\e[36m";
-
-$bersih="cls";
-} else {
-$bersih="clear";
-}
-system($bersih);
+$blue = "\e[36m"; 
  
 
 echo "\e[36m****************************************\n";
