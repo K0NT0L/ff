@@ -1,5 +1,5 @@
- <?php
-//JEMBOD KELIAN, NGAPAIN KE MARIH?
+<?php
+
 
 $cyan ="\e[36m";
 $red = "\e[91m";
