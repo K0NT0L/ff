@@ -5,11 +5,12 @@ using namespace std;
 
 int main()
 {
-system("color 10");
+system("echo "\033[96m" ");
 cout << "[=====================]\n";
 cout << "Author : r00t@star\n";
 cout << "powered by indonesian wibu :v\n";
 cout << "[=====================]\n\n";
+system("echo "\033[94m" ");
 cout << "(1) RED_HAWK\n";
 cout << "(02) Tools By Pineaple_303\n";
 cout << "[======================]\n";
