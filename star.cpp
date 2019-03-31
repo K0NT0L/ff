@@ -43,14 +43,14 @@ int star;
 cout << "root@star -# ";
 cin >> star;
 if (star <= 1){
-cout << "Installing....";
+cout << "Installing....\n";
 system("apt update && apt upgrade");
 system("apt install php");
 system("git clone https://github.com/Tuhinshubhra/RED_HAWK");
 cout << "cd RED_HAWK\n";
 cout << "Sudah Terupload :)\n";
 }else if (star <= 2){
-    cout << "Installing"
+    cout << "Installing\n";
     system("apt update && apt upgrade");
     system("pkg install python2 lolcat git -y");
     system("pip2 install lolcat");
